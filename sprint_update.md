@@ -1,29 +1,27 @@
-# <img src="http://brand.venmo.com/img/logo-mark.png" width="25px"></img> Weekly Update from the Customer Support Team
-
+# <img src="https://images-na.ssl-images-amazon.com/images/G/01/EPSMarketingJRubyWebsite/assets/3/images/favicon.ca6619b8.ico"></img>Weekly Update from AWS Engagement Team
 ---
 
-## Announcements 📣
-- Everyone on my team is getting performance bonuses! 🤑
-- We have invented calorie free pizza! 🍕🍕
-- Venmo is scaling up, and so is our team. We are welcoming 30 new teammates. 👨‍👩‍👧‍👦 
+## Announcements
+- We're meeting with some of our biggest clients in the next month, to maintain warm relationships.
+- Due to tremendous growth, the AWS Engagement Team is scheduled to grow by 25 personnel next quarter.
 
 ## Thank You
-- To our Analytics Team for providing visualizations around our drastic improvement in support satisfaction! 
+- To the Business Intelligence Team for providing KPI visualizations.
 
 ## This Sprint: 2017-08-28
 
 Project         | Lead | Status                     | Notes
-----------------|------|----------------------------|----------------------------------------------------
-SLAs            | Me!  | Done ahead of schedule     | We implemented tracking for key metrics around SLAs.
-IVR Scripts     | Me!  | On track!                  | We got signoff from operations leadership on new scripts.
+----------------|------|----------------------------|---------------------------------------------------------------
+SLAs            | Me   | Done ahead of schedule     | We implemented tracking for key metrics around SLAs.
+CRM Dashboard   | Me   | On track                   | We got signoff from security to expose relationship overviews.
 ...
 
 ## Up Next: 2017-09-04
-Project       | Lead | Stakeholders               | Notes
---------------|------|----------------------------|----------------------------------------------------
-Venmo Codes   | Me!  | Compliance                 | Training on privacy compliance on new Venmo Codes
-Siri          | Me!  | Marketing                  | Communication campaign with Siri integration
+Project            | Lead | Stakeholders               | Notes
+-------------------|------|----------------------------|--------------------------------------------------------------------------------------
+CRM Dashboard      | Me   | Compliance                 | [Continued] The next milestone is to get designs approved by operations leadership.
+Alexa for Business | Me   | Marketing                  | Coordinate rollout of our marketing campaign with account managers.
 ...
 
 ## Until Next Week...
-Stay cool 😎
+We welcome your comments and questions: [team-aws-engagement@aws.com](http://amandaclaireoconnor.com/)
