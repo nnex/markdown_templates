@@ -1,4 +1,4 @@
-# <img src="http://www.wbez.org/img/social_default.png"></img>Weekly Update from WBEZ Chicago Public Media Team
+# <img src="http://www.wbez.org/img/social_default.png" width="80"></img>Weekly Update from WBEZ Chicago Public Media Team
 ---
 
 ## Announcements
