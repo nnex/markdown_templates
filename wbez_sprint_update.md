@@ -1,27 +1,27 @@
-# <img src="https://images-na.ssl-images-amazon.com/images/G/01/EPSMarketingJRubyWebsite/assets/3/images/favicon.ca6619b8.ico"></img>Weekly Update from AWS Engagement Team
+# <img src="http://www.wbez.org/img/social_default.png"></img>Weekly Update from WBEZ Chicago Public Media Team
 ---
 
 ## Announcements
-- We're meeting with some of our biggest clients in the next month, to maintain warm relationships.
-- Due to tremendous growth, the AWS Engagement Team is scheduled to grow by 25 personnel next quarter.
+- rePlay's "Lists & Moods" feature will push a new algorithm that improves recommended shows based on user's search history.
+- WBEZ.org will launch its new homepage design and layout 12/17 at midnight based on our team's recent UX and speed test results.
 
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
 
-## This Sprint: 2017-11-28
+## This Sprint: 2017-12-11
 
 Project         | Lead | Status                     | Notes
 ----------------|------|----------------------------|---------------------------------------------------------------
 SLAs            | Me   | Done ahead of schedule     | We implemented tracking for key metrics around SLAs.
-CRM Dashboard   | Me   | On track                   | We got signoff from security to expose relationship overviews.
+CRM Dashboard   | Me   | On track                   | We got administrative signoff to expose relationship overviews.
 ...
 
-## Up Next: 2017-12-04
+## Up Next: 2017-12-15
 Project            | Lead | Stakeholders               | Notes
 -------------------|------|----------------------------|--------------------------------------------------------------------------------------
 CRM Dashboard      | Me   | Compliance                 | [Continued] The next milestone is to get designs approved by operations leadership.
-Alexa for Business | Me   | Marketing                  | Coordinate rollout of our marketing campaign with account managers.
+WBEZ Alexa Integration | Me   | Marketing                  | Coordinate rollout of our marketing campaign with account managers.
 ...
 
 ## Until Next Week...
-We welcome your comments and questions: [team-aws-engagement@aws.com](http://amandaclaireoconnor.com/)
+We welcome your comments and questions: [chipubradio@wbez.org](http://amandaclaireoconnor.com/)
