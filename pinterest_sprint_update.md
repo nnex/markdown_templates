@@ -1,9 +1,8 @@
-# <img src="http://www.wbez.org/img/social_default.png" width="40"> </img> Weekly Update from the Public Media Team
+# <img src="https://business.pinterest.com/sites/default/files/flex_img/2017-02/1-brand-guidelines-01.jpg" width="40"> </img> Weekly Update from the Regional Partnerships Team
 ---
 
 ## Announcements
-- rePlay's "Lists & Moods" feature will push a new algorithm that improves recommended shows based on user's search history.
-- WBEZ.org will launch its new homepage design and layout 12/17 at midnight based on our team's recent UX and speed test results.
+- Revised customer support automation tools are available now. Our instructional designers and front-end team have updated Pinterest's support webpages to help with the recent roll-out. 
 
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
@@ -20,8 +19,8 @@ CRM Dashboard   | Me   | On track                   | We got administrative sign
 Project            | Lead | Stakeholders               | Notes
 -------------------|------|----------------------------|--------------------------------------------------------------------------------------
 CRM Dashboard      | Me   | Compliance                 | [Continued] The next milestone is to get designs approved by operations leadership.
-WBEZ Alexa Integration | Me   | Marketing                  | Coordinate rollout of our marketing campaign with account managers.
+Pin Button Mobile Update | Me   | Marketing                  | Coordinate rollout of our marketing campaign with account managers.
 ...
 
 ## Until Next Week...
-We welcome your comments and questions: [chipubradio@wbez.org](http://amandaclaireoconnor.com/)
+We welcome your comments and questions: [reg-partnerships@pinterest.com](http://amandaclaireoconnor.com/)
