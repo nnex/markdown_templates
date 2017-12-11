@@ -1,8 +1,8 @@
-# <img src="https://business.pinterest.com/sites/default/files/flex_img/2017-02/1-brand-guidelines-01.jpg" width="40"> </img> Weekly Update from the Regional Partnerships Team
+# <img src="https://business.pinterest.com/sites/default/files/flex_img/2017-02/1-brand-guidelines-01.jpg" width="80"> </img> Weekly Update from the Regional Partnerships Team
 ---
 
 ## Announcements
-- Revised customer support automation tools are available now. Our instructional designers and front-end team have updated Pinterest's support webpages to help with the recent roll-out. 
+- Revised customer support automation tools are available now! Our instructional designers and front-end team have updated Pinterest's support webpages to help with the recent roll-out. 
 
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
