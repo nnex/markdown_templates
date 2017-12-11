@@ -1,4 +1,4 @@
-# <img src="https://business.pinterest.com/sites/default/files/flex_img/2017-02/1-brand-guidelines-01.jpg" width="80"> </img> Weekly Update from the Regional Partnerships Team
+# <img src="https://business.pinterest.com/sites/default/files/flex_img/2017-02/1-brand-guidelines-01.jpg" width="60"> </img> Weekly Update from the Regional Partnerships Team
 ---
 
 ## Announcements
