@@ -1,4 +1,4 @@
-# <img src="https://i3.ypcdn.com/blob/6b13dd28b9d4282f9f33554625a213eafd40b4c9_400x260_crop.jpg"></img>Weekly Update from the D3 Department
+# <img src="https://i3.ypcdn.com/blob/6b13dd28b9d4282f9f33554625a213eafd40b4c9_400x260_crop.jpg" width="60"></img>Weekly Update from the D3 Department
 ---
 
 ## Announcements
