@@ -1,4 +1,4 @@
-# <img src="https://forterra.org/wp-content/uploads/2018/06/KEXP-LOGO-OFFICIAL-COLOR-3.png" width="55"></img>  Weekly Update from KEXP's Software Development team. 
+# <img src="https://forterra.org/wp-content/uploads/2018/06/KEXP-LOGO-OFFICIAL-COLOR-3.png" width="60"></img>  Weekly Update from KEXP's Software Development team. 
 ---
 
 ## Announcements
