@@ -3,7 +3,7 @@
 
 ## Announcements
 - We've updated the software development request web form to better integrate with team's task management dashboard.  
-- We're meeting with 3rd party clients in the next month to collect bids for the latest round of mobile app integrations.
+- We're meeting with 3rd party contractors in the next month to collect bids for the latest round of mobile app integrations.
 - The BI team has added another level of granularity to our digital metrics dashboard to assess user engagement on the app.
 
 ## Thank You
