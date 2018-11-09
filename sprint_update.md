@@ -9,7 +9,7 @@
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
 
-## This Sprint: 2017-11-09
+## This Sprint: 2018-11-09
 
 Project         | Lead | Status                     | Notes
 ----------------|------|----------------------------|---------------------------------------------------------------
