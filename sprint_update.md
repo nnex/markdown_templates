@@ -1,4 +1,4 @@
-# <img src="https://drive.google.com/file/d/1dLRZ5054eSDgKTOt7RfDqUETCCATBmM5/view?usp=sharing" width="60"></img>Weekly Update from KEXP's Software Development team. 
+# <img src="https://drive.google.com/file/d/1dLRZ5054eSDgKTOt7RfDqUETCCATBmM5/view?usp=sharing"></img>Weekly Update from KEXP's Software Development team. 
 ---
 
 ## Announcements
