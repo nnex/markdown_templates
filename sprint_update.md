@@ -1,27 +1,27 @@
-# <img src="https://i3.ypcdn.com/blob/6b13dd28b9d4282f9f33554625a213eafd40b4c9_400x260_crop.jpg" width="60"></img>Weekly Update from the D3 Department
+# <img src="https://drive.google.com/file/d/1dLRZ5054eSDgKTOt7RfDqUETCCATBmM5/view?usp=sharing" width="60"></img>Weekly Update from KEXP's Software Development team. 
 ---
 
 ## Announcements
-- We're meeting with some of our biggest clients in the next month, to maintain warm relationships.
-- Due to tremendous growth, the Allstate's Data & Analytics Team is scheduled to grow by 12 personnel next quarter.
+- We've updated the software development request web form to better integrate with team's task management dashboard.  
+- We're meeting with 3rd party clients in the next month to collect bids for the latest round of mobile app integrations.
+- The BI team has added another level of granularity to our digital metrics dashboard to assess user engagement on the app.
 
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
 
-## This Sprint: 2017-11-28
+## This Sprint: 2017-11-09
 
 Project         | Lead | Status                     | Notes
 ----------------|------|----------------------------|---------------------------------------------------------------
 SLAs            | Me   | Done ahead of schedule     | We implemented tracking for key metrics around SLAs.
-CRM Dashboard   | Me   | On track                   | We got signoff from security to expose relationship overviews.
+CRM Dashboard   | Me   | On track                   | We got signoff from security to expose label and artist relationship overviews.
 ...
 
-## Up Next: 2017-12-04
+## Up Next: 2018-11-16
 Project            | Lead | Stakeholders               | Notes
 -------------------|------|----------------------------|--------------------------------------------------------------------------------------
-CRM Dashboard      | Me   | Compliance                 | [Continued] The next milestone is to get designs approved by operations leadership.
-Siri integration for Business | Me   | Marketing                  | Coordinate rollout of our marketing campaign with account managers.
+CRM Dashboard      | Me   | Compliance, Marketing      | [Continued] Smartsheet update allows for better visibility between our music licensing agreements and underwriting relationships to anticipate conflicts of interest. 
 ...
 
 ## Until Next Week...
-We welcome your comments and questions: [d3@allstate.com](http://amandaclaireoconnor.com/)
+We welcome your comments and questions: [feedback@kexp.org](http://amandaclaireoconnor.com/)
