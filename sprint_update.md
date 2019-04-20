@@ -1,4 +1,4 @@
-# <img src="https://forterra.org/wp-content/uploads/2018/06/KEXP-LOGO-OFFICIAL-COLOR-3.png" width="60"></img>  Weekly Software Development Team Update 
+# Weekly Software Development Team Update 
 ---
 
 ## Announcements
@@ -9,19 +9,19 @@
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
 
-## This Sprint: 2018-11-09
+## This Sprint: 2019-05-06
 
 Project         | Lead | Status                     | Notes
-----------------|------|----------------------------|---------------------------------------------------------------
-SLAs            | Me   | Done ahead of schedule     | We implemented tracking for key metrics around SLAs.
-CRM Dashboard   | Me   | On track                   | We got signoff from security to expose label and artist relationship overviews.
+----------------|---------|----------------------------|---------------------------------------------------------------
+SLAs            | Kevin   | Done ahead of schedule     | We implemented tracking for key metrics around SLAs.
+CRM Dashboard   | Amanda  | On track                   | We got signoff from security to expose label and artist relationship overviews.
 ...
 
-## Up Next: 2018-11-16
-Project            | Lead | Stakeholders               | Notes
--------------------|------|----------------------------|--------------------------------------------------------------------------------------
-CRM Dashboard      | Me   | Compliance, Marketing      | [Continued] Smartsheet update allows for better visibility between our music licensing agreements and underwriting relationships to anticipate conflicts of interest. 
+## Up Next: 2019-05-13
+Project            | Lead | Stakeholders                   | Notes
+-------------------|----------|----------------------------|--------------------------------------------------------------------------------------
+CRM Dashboard      | Amanda   | Compliance, Marketing      | [Continued] Smartsheet update allows for better visibility between our music licensing agreements and underwriting relationships to anticipate conflicts of interest. 
 ...
 
 ## Until Next Week...
-We welcome your comments and questions: [feedback@kexp.org](http://amandaclaireoconnor.com/)
+We welcome your comments and questions: [feedback@bellvuewa.gov](http://amandaclaireoconnor.com/)
