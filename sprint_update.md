@@ -9,7 +9,7 @@
 ## Thank You
 - To the Business Intelligence Team for providing KPI visualizations.
 
-## This Sprint: 2019-05-06
+## This Sprint: 2019-11-04
 
 Project         | Lead | Status                     | Notes
 ----------------|---------|----------------------------|---------------------------------------------------------------
@@ -17,7 +17,7 @@ SLAs            | Kevin   | Done ahead of schedule     | We implemented tracking
 CRM Dashboard   | Amanda  | On track                   | We got signoff from security to expose label and artist relationship overviews.
 ...
 
-## Up Next: 2019-05-13
+## Up Next: 2019-11-11
 Project            | Lead | Stakeholders                   | Notes
 -------------------|----------|----------------------------|--------------------------------------------------------------------------------------
 CRM Dashboard      | Amanda   | Compliance, Marketing      | [Continued] Smartsheet update allows for better visibility between our music licensing agreements and underwriting relationships to anticipate conflicts of interest. 
